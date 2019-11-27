@@ -9,14 +9,14 @@ Permission was granted by Dartmouth College and faculty to make this work public
 Project 1 provided the task of working in SQL and handling the data. One such task was renaming columns permanently, working with dates in SQL, and replacing values with other values for clearer understanding. Making new columns based on values of other columns. This was mainly to show our understanding of how to handle and clean data using SQL with a SQL Data Studio, which was done on Azure Data Studio for this project. The specific tasks are outlined below.
 
 1. Rename the columns: 
-  * TriAge to Age
-  * GenderCode to Gender
-  * ContactID to ID
-  * Address1Stateorprovince to State
-  * TriImagineCareenrollmentemailsentdate to EmailSentdate
-  * Trienrollmentcompletedate to Completedate
-  * Calculate the time (in days) to complete enrollment and create a new column to
-      have this data
+   * TriAge to Age
+   * GenderCode to Gender
+   * ContactID to ID
+   * Address1Stateorprovince to State
+   * TriImagineCareenrollmentemailsentdate to EmailSentdate
+   * Trienrollmentcompletedate to Completedate
+   * Calculate the time (in days) to complete enrollment and create a new column to
+       have this data
 
 ## Project 2
 
